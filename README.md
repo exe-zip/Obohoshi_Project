@@ -6,7 +6,7 @@
 ゲームタイトル：雪下のおぼほし(仮)
 
 # 使用ソフト・ツール
-Unity v2022.2.6f1
+Unity v2022.3.6f1
 
 GitHub Desktop
 
